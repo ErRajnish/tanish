@@ -1,3 +1,3 @@
 # Tanish
 repository
-Author - Rajnish Kumar Tiwari
+Author - Er.Rajnish Kumar Tiwari
