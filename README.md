@@ -1,3 +1,3 @@
 # Tanish
 repository
-Author - Er.Rajnish Kumar Tiwari
+Author - Er.Rajnish Kumar Tiwari maricha
